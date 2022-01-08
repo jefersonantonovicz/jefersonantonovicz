@@ -5,7 +5,7 @@
 - Em constante aprendizado ✔️ 
 - E-mail:jeffersonantonovicz@gmail.com 
 📩 
-- "A determinação vence qualquer talento."
+- "A determinação vence qualquer talento." ✨ 
 
 
 <div align="center">
@@ -25,7 +25,7 @@
   
   <div> 
   <a href="https://instagram.com/jefersonantonovicz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/jefersonantonovicz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/jeferson#1500" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jefersonantonovicz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeferson-antonovicz-3ba1aab7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
